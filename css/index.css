@@ -1,3 +1,9 @@
 .app {
-    background-color: red;
+  background-color: #8BC34A;
+}
+
+.logo {
+  height: 200px;
+  background-repeat: no-repeat;
+  background-image: url("../images/logo_jivosite_regular.svg");
 }
